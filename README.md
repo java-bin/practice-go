@@ -1,0 +1,2 @@
+# practice-go
+go project
